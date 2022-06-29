@@ -1,7 +1,7 @@
 Hi 👋 My name is Dawn Trail
 ===========================
 
-Frontend Web Developer (Web Stylist 😄)
+Frontend Web Developer
 ---------------------------------------
 
 I’ve been in the web development field for quite some time working in in-house retail teams. I started out with a little HTML knowledge and built from there learning the key aspects of more advanced Frontend Stacks. I enjoy “styling” things on the web!
